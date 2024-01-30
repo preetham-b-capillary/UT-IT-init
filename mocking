@@ -1,0 +1,6 @@
+1. basics of jest config
+2. assertions, blocks
+3. simple code for generator function, how to mock it
+4. different ways of mocking, dynamic mocking, what naming should be there for mocking variable
+5. mocking callback function, function mocks, file mocks, only 1 function mock in whole file
+6. mockRestore, mockReset, write test for simple reducer
